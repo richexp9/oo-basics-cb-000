@@ -1,6 +1,10 @@
 
 
 class Book
+
+  def ini
+
+  end
   # def initialize(title)
   #   @title = title
   # end
