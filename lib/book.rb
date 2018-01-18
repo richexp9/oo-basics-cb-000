@@ -11,4 +11,8 @@ class Book
   def author=(author)
 
   end
+
+  def author
+
+  end
 end
