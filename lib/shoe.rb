@@ -6,6 +6,10 @@ class Shoe
 
   end
 
+def coble
+  
+
+end
 
   def brand
 
