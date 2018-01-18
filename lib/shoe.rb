@@ -1,6 +1,5 @@
 class Shoe
-  def initialization
-
+  def initialization(brand)
   end
 
 end
